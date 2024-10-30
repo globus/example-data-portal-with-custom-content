@@ -30,3 +30,19 @@ View Example: https://globus.github.io/example-data-portal-with-custom-content/ 
 View Example: https://globus.github.io/example-data-portal-with-custom-content/ ([Markdown Source](/content/index.md), [Assets Source](/content/assets))
 
 
+## Additional Pages + Routes
+
+The simplest way to add additional pages or routes to your portal is to create additional Markdown (`.md`) files in your content directory. When a new file is added, the page will become accessible at `{HOST}/{CONTENT_RELATIVE_PATH_WITHOUT_EXTENSION}`.
+
+|Content Path| Page URL |
+|----------|--------------------|
+| `/content/welcome.md` | `{HOST}/welcome`|
+| `/content/documentation/how-to.md` | `{HOST}/documentation/how-to`|
+
+View Example: https://globus.github.io/example-data-portal-with-custom-content/documentation/example ([Markdown Source](/content/documentation/example.md))
+
+
+
+
+
+
