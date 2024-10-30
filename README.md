@@ -2,7 +2,13 @@
 
 This repository is an example implementation of the [@globus/template-data-portal](https://github.com/globus/template-data-portal).
 
-You can create your own portal with similar functionality by following the [**Creating Your Own Research Data Portal**](https://github.com/globus/template-data-portal?tab=readme-ov-file#creating-your-own-research-data-portal) section in the template repository and then making the following modifications:
+
+You can create your own portal with similar functionality by following the [**Creating Your Own Research Data Portal**](https://github.com/globus/template-data-portal?tab=readme-ov-file#creating-your-own-research-data-portal) section in the template repository and then referencing the sections below.
+
+
+<img width="1409" src="https://github.com/user-attachments/assets/48b088c8-f095-474e-a2fa-e89616d9e5e7">
+
+
 
 
 ## Creating a Custom Landing Page
